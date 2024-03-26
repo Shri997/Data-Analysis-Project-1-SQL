@@ -1,0 +1,57 @@
+** Questions **
+
+1.  row count of data
+2.  column count of data
+3.  get column names of store data
+4.  get column names with data type of store data
+5.  checking null values of store data 
+     Using Nested Query 
+6.  Dropping Unnecessary column like Row_ID
+7.  Check the count of United States
+8.  What are the unique product categories?
+9.  What is the number of products in each category?
+10. Find the number of Subcategories products that are divided.
+11. Find the number of products in each sub-category.
+12. Find the number of unique product names.
+13. Which are the Top 10 Products that are ordered frequently?
+14. Calculate the cost for each Order_ID with respective Product Name.
+15. Calculate % profit for each Order_ID with respective Product Name.
+16. Calculate the overall profit of the store.
+17. Calculate percentage profit and group by them with Product Name and Order_Id.
+     Introducing method using 'WITH'
+18. Same Thing Using normal method without creating any temporary data. Here, This can be only viewed for one time and we can't merge with the current dataset in this process.
+19. Where can we trim some loses? 
+     In Which products?
+     We can do this by calculating the average sales and profits, and comparing the values to that average.
+     If the sales or profits are below average, then they are not best sellers and 
+     can be analyzed deeper to see if its worth selling thema anymore.
+20. Average sales per sub-cat
+21. Average profit per sub-cat
+22. What is the number of unique customer IDs?
+23. Find those customers who registered during 2014-2016.
+24. Calculate Total Frequency of each order id by each customer Name in descending order.
+25. Calculate  cost of each customer name.
+26. Display No of Customers in each region in descending order.
+27. Find Top 10 customers who order frequently.
+28. Display the records for customers who live in state California and Have postal code 90032.
+29. Find Top 20 Customers who benefitted the store.
+30. Which state(s) is the superstore most succesful in? Least?
+    --Top 10 results
+31. number of unique orders
+32. Find Sum Total Sales of Superstore.
+33. Calculate the time taken for an order to ship and converting the no. of days in int format.
+34. Extract the year  for respective order ID and Customer ID with quantity.
+35. What is the Sales impact?
+36. --Breakdown by Top vs Worst Sellers:
+    -- Find Top 10 Categories (with the addition of best sub-category within the category).
+37. --Find Top 10 Sub-Categories.
+38. --Find Worst 10 Categories.
+39. -- Find Worst 10 Sub-Categories.
+40. Show the Basic Order information.
+41. Find the number of returned orders.
+42. --Find Top 10 Returned Categories.
+43. -- Find Top 10  Returned Sub-Categories.
+44. --Find Top 10 Customers Returned Frequently.
+45. -- Find Top 20 cities and states having higher return.
+46. --Check whether new customers are returning higher or not.
+47. --Find Top  Reasons for returning.
