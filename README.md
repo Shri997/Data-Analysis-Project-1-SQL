@@ -1,6 +1,8 @@
-# E-commerce Data Analysis
+# E-commerce sales Data Analysis
 
-## Domain SQL
+## Domain - E-commerce
+
+### Technologies: Excel | SQL/MySQL
 
 ### Project Overview
 ---
